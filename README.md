@@ -49,11 +49,11 @@ Para iniciar o jogo, abra a instância criada com dois cliques e aguarde a abert
 
 # Sobre o servidor
 
-- Hospedagem: Oracle Cloud free tier, Vinhedo SP
-- Instância: Ubuntu 22.04 minimal
-- Processador: Ampere Altra A1, 4 núcleos
-- RAM: 16GB
-- Espaço: 200GB NVME
+- Hospedagem: Oracle Cloud free tier, Vinhedo SP 
+- Instância: Ubuntu 22.04 minimal 
+- Processador: Ampere Altra A1, 4 núcleos 
+- RAM: 16GB 
+- Espaço: 200GB NVME 
 
 
 
