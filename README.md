@@ -55,7 +55,7 @@ A maioria dos mods presentes no modpack tem o objetivo de melhorar o desempenho 
 
 Apesar de aconselhável, não é necessária a utilização do modpack para entrar e jogar no servidor, pois todos os mods são client-side, ou seja, funcionam independente do servidor.
 
-O servidor também utiliza alguns mods, como o "Terralith", que modifica a geração de terreno e adiciona novos biomas e o "Repurposed Structures, que modifica e adiciona novos monumentos ao jogo, ambos os mods são server-side, ou seja, funcionam mesmo com o Minecraft sem mods (Vanilla).
+O servidor também utiliza alguns mods, como o "Terralith", que modifica a geração de terreno e adiciona novos biomas e o "Repurposed Structures", que modifica e adiciona novos monumentos ao jogo, ambos os mods são server-side, ou seja, funcionam mesmo com o Minecraft sem mods (Vanilla).
 
 E para aqueles espertinhos que querem levar vantagem, o servidor possui um sistema anti-Xray.
 
