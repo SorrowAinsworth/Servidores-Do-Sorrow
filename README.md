@@ -49,9 +49,23 @@ Para iniciar o jogo, abra a instância criada com dois cliques e aguarde a abert
 
 **Informações do modpack**
 
-A maioria dos mods presentes no modpack tem o objetivo de melhorar o desempenho do jogo, com alguns mods de qualidade de vida como o "Journey Map", que adiciona um minimapa e a possibilidade de criar waypoints, o "Shulkerbox tooltip" que mostra o conteúdo das shulkerboxes ao passar o mouse e o 
+A maioria dos mods presentes no modpack tem o objetivo de melhorar o desempenho do jogo, com alguns mods de qualidade de vida como o "Journey Map", que adiciona um minimapa e a possibilidade de criar waypoints, o "Shulkerbox tooltip" que mostra o conteúdo das shulkerboxes ao passar o mouse e o "Simple Voice Chat" que adiciona um chat de voz dentro do jogo, tendo suporte para chat de proximidade e grupos.
 
-Apesar de aconselhável, o modpack não é necessário para entrar e jogar no servidor
+Apesar de aconselhável, não é necessária a utilização do modpack para entrar e jogar no servidor, pois todos os mods são client-side, ou seja, funcionam independente do servidor.
+
+O servidor também utiliza alguns mods, como o "Terralith", que modifica a geração de terreno e adiciona novos biomas e o "Repurposed Structures, que modifica e adiciona novos monumentos ao jogo, ambos os mods são server-side, ou seja, funcionam mesmo com o Minecraft sem mods (Vanilla).
+
+E para aqueles espertinhos que querem levar vantagem, o servidor possui um sistema anti-Xray.
+
+**Skins personalizadas**
+
+O servidor utiliza o mod "Fabric Tailor", permitindo que os jogadores utilizem skins personalizadas ou troquem de skin sem precisar sair do jogo, também permite contas offline utilizar skins.
+
+Para carregar uma skin através de uma URL, utilize o comando:
+
+- /skin set URL (Link da URL)
+
+Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de algum site de skins, entrar no site [Imgur](https://imgur.com/), clicar em "New Post" no canto superior esquerdo, selecionar o arquivo da skin, após isso aguarde alguns segundos e clique no botão "copy link" que aparece ao pairar o mouse sobre a imagem da skin.
 
 # Sobre o servidor
 
