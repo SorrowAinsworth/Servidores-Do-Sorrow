@@ -61,7 +61,7 @@ E para aqueles espertinhos que querem levar vantagem, o servidor possui um siste
 
 O servidor utiliza o mod "Fabric Tailor", permitindo que os jogadores utilizem skins personalizadas ou troquem de skin sem precisar sair do jogo, também permite contas offline utilizar skins.
 
-Para carregar uma skin através de uma URL, utilize o comando:
+Para carregar uma skin através de uma URL, utilize o seguinte comando dentro do chat do jogo (não esqueça a barra /):
 
 - /skin set URL (Link da URL)
 
