@@ -31,7 +31,7 @@ Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e ma
 
 **Pós-Instalação**
 
-Após instalar o Launcher, escolha o idioma do mesmo, a versão Java e a quantidade de RAM (no mínimo 2024mb, no máximo 4098mb, mais que isso o Minecraft Vanilla não funciona direito).
+Após instalar o Launcher, escolha o idioma do mesmo, a versão Java e a quantidade de RAM (no mínimo 2042mb, no máximo 4098mb, mais que isso o Minecraft Vanilla não funciona direito).
 
 Na tela principal, clique na cabeça de Steve no canto superior direito e vá em gerenciar contas, adicione uma conta offline caso não tenha o minecraft original, caso tenha, adicione sua conta Microsoft ou Mojang. Para a conta offline, use underline ( _ ) no lugar do espaço.
 
