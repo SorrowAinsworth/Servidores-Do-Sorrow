@@ -31,13 +31,13 @@ Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e ma
 
 **Pós-Instalação**
 
-Após instalar o Launcher, escolha o idioma do mesmo, a versão java e a quantidade de RAM (no mínimo 2024mb, no máximo 4098mb, mais que isso o Minecraft Vanilla não funciona direito).
+Após instalar o Launcher, escolha o idioma do mesmo, a versão Java e a quantidade de RAM (no mínimo 2024mb, no máximo 4098mb, mais que isso o Minecraft Vanilla não funciona direito).
 
 Na tela principal, clique na cabeça de Steve no canto superior direito e vá em gerenciar contas, adicione uma conta offline caso não tenha o minecraft original, caso tenha, adicione sua conta Microsoft ou Mojang. Para a conta offline, use underline ( _ ) no lugar do espaço.
 
 Para o Linux, na seção "Minecraft" habilite o feral gamemode para melhor desempenho.
 
-Caso você tenha problemas com o Java, como o jogo não iniciar, na seção Java marque a opção "Pular verificação de compatibilidade do java".
+Caso você tenha problemas com o Java, como o jogo não iniciar, na seção Java marque a opção "Pular verificação de compatibilidade do Java".
 
 **Instalação do modpack Elísio**
 
