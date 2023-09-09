@@ -9,7 +9,8 @@ O Elísio é um servidor de esquerda e anarquista, incentivamos a cooperação e
 - [Spectrum Launcher](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing) 
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
-- [Elísio modpack](https://drive.google.com/file/d/1ZAvE-G_VJBRv0r3swY6ZP3YQvW-tJiZV/view?usp=drive_link) 
+- [Elísio modpack](https://drive.google.com/file/d/1ZAvE-G_VJBRv0r3swY6ZP3YQvW-tJiZV/view?usp=drive_link)
+- [Discord do servidor](https://discord.gg/fuMNcFqMc) 
 
 # Instalação
 
