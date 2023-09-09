@@ -53,7 +53,9 @@ Para iniciar o jogo, abra a instância criada com dois cliques e aguarde a abert
 - Instância: Ubuntu 22.04 minimal 
 - Processador: Ampere Altra A1, 4 núcleos 
 - RAM: 16GB 
-- Espaço: 200GB NVME 
+- Espaço: 200GB NVME
+- IP: 164.152.254.26
+- Versão: 1.20.1 
 
 
 
