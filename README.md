@@ -7,7 +7,7 @@ Elísio é um servidor de minecraft que busca ser um local seguro para todos aqu
 - [Spectrum Launcher](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing) 
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
-- [Elísio modpack](https://drive.google.com/file/d/1ZjeXnCCEKqZ4X8KWuwX3nI_-081rUX0M/view?usp=drive_link) 
+- [Elísio modpack](https://drive.google.com/file/d/1-qq1PCiGGS4ieQfQIsXgtQKeMCvYJFkt/view?usp=drive_link) 
 
 # Instalação
 
@@ -41,11 +41,17 @@ Caso você tenha problemas com o Java, como o jogo não iniciar, na seção Java
 
 **Instalação do modpack Elísio**
 
-Para instalar o modpack recomendado para o servidor, baixe o [Elísio modpack](https://drive.google.com/file/d/1ZjeXnCCEKqZ4X8KWuwX3nI_-081rUX0M/view?usp=drive_link) do Drive, não é necessário extrair, pois o Launcher utiliza o arquivo .zip inteiro.
+Para instalar o modpack recomendado para o servidor, baixe o [Elísio modpack](https://drive.google.com/file/d/1-qq1PCiGGS4ieQfQIsXgtQKeMCvYJFkt/view?usp=drive_link) do Drive, não é necessário extrair, pois o Launcher utiliza o arquivo .zip inteiro.
 
 Após baixar o arquivo .zip, na tela principal do launcher, no canto superior esquerdo, clique em "adicionar instância", clique em "Import from zip, clique em "Navegar", selecione o arquivo .zip e clique em ok.
 
 Para iniciar o jogo, abra a instância criada com dois cliques e aguarde a abertura do jogo. O modpack ja vem com o servidor adicionado na aba "Multijogador" e com configurações gráficas pré-configuradas.
+
+# Sobre o servidor
+
+Hospedagem: Oracle Cloud free tier, Vinhedo SP
+Instância: Ubuntu 22.04 minimal
+Processador: Ampere Altra A1, 4 núcleos
 
 
 
