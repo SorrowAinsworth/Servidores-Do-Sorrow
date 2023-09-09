@@ -21,6 +21,7 @@ Estarei disponibilizando o link para download do mesmo, através do Drive. Baixe
 
 Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e marcar a aplicação como executável. Para o macos, você tera que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomando o Linux Mint, para evitar vírus e programas maliciosos.
 
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 **Instalação das versões**
 
@@ -29,7 +30,6 @@ Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e ma
 - Linux: Instale a versão java recomendada para o Minecraft 1.20.1 usando o gerenciador de pacotes de sua distro, no Ubuntu, utilize "sudo apt install openjdk-17-jdk", faça o download do arquivo .AppImage, marque como executável (geralmente botão direito, propriedades), e execute.
 
 - Macos: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg), extraia a pasta e siga as instruções.
-
 
 **Pós-Instalação**
 
