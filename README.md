@@ -2,6 +2,13 @@
 
 Elísio é um servidor de minecraft que busca ser um local seguro para todos aqueles que querem apenas aliviar o estresse do dia, ou para aqueles que querem um local seguro e simples para jogar sem preocupações.
 
+# Links rápidos
+
+·[Spectrum Launcher - Drive](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing)
+·[Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
+·[Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg)
+·[Elísio modpack](https://drive.google.com/file/d/1ZjeXnCCEKqZ4X8KWuwX3nI_-081rUX0M/view?usp=drive_link)
+
 # Instalação
 
 **O Launcher**
