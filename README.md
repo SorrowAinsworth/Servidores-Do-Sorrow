@@ -78,6 +78,8 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - Versão: 1.20.1 
 
 
+Créditos a [roridev](https://github.com/roridev) pelo Spectrum Launcher.
+
 
 
 
