@@ -80,6 +80,7 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - IP: 164.152.254.26
 - Versão: 1.20.1 
 
+Caso queira tirar alguma dúvida ou ter um local para se comunicar com os membros do servidor, entre na [comunidade do Discord](https://discord.gg/fuMNcFqMc).
 
 Créditos a [roridev](https://github.com/roridev) pelo Spectrum Launcher.
 
