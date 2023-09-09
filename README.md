@@ -21,7 +21,7 @@ Estarei disponibilizando o link para download do mesmo, através do Drive. Baixe
 
 [Spectrum Launcher - Drive](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing)
 
-Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e marcar a aplicação como executável. Para o macos, você terá que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomando o Linux Mint, para evitar vírus e programas maliciosos.
+Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e marcar a aplicação como executável. Para o macos, você terá que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomendo o Linux Mint, para evitar vírus e programas maliciosos.
 
 **Instalação das versões**
 
