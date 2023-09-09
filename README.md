@@ -23,11 +23,11 @@ Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e ma
 
 **Instalação das versões**
 
-Windows 10,11,7: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe), Extraia o arquivo .zip e abra o launcher pelo executável.
+- Windows 10,11,7: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe), Extraia o arquivo .zip e abra o launcher pelo executável.
 
-Linux: Instale a versão java recomendada para o Minecraft 1.20.1 usando o gerenciador de pacotes de sua distro, no Ubuntu, utilize "sudo apt install openjdk-17-jdk", faça o download do arquivo .AppImage, marque como executável (geralmente botão direito, propriedades), e execute.
+- Linux: Instale a versão java recomendada para o Minecraft 1.20.1 usando o gerenciador de pacotes de sua distro, no Ubuntu, utilize "sudo apt install openjdk-17-jdk", faça o download do arquivo .AppImage, marque como executável (geralmente botão direito, propriedades), e execute.
 
-Macos: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg), extraia a pasta e siga as instruções.
+- Macos: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg), extraia a pasta e siga as instruções.
 
 **Pós-Instalação**
 
