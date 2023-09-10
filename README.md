@@ -5,7 +5,7 @@ Elísio é um servidor de minecraft que busca ser um local seguro para todos aqu
 O Elísio é um servidor de esquerda e anarquista, incentivamos a cooperação entre os jogadores, assim como o compartilhamento de recursos, qualquer tentativa de monetização dentro do servidor será repreendida, apesar de permitir que os jogadores tenham seus itens respeitados, use o bom senso.
 
 IP: 164.152.254.26 
-Versão: 1.20.1
+Versão: 1.20.1 
 
 # Links rápidos
 
