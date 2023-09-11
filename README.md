@@ -16,7 +16,6 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
 - [Elísio modpack](https://drive.google.com/file/d/1ZAvE-G_VJBRv0r3swY6ZP3YQvW-tJiZV/view?usp=drive_link)
-- [Discord do servidor](https://discord.gg/fuMNcFqMc) 
 
 # Instalação
 
@@ -85,8 +84,6 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - Espaço: 200GB NVME
 - IP: 164.152.254.26
 - Versão: 1.20.1 
-
-Caso queira tirar alguma dúvida ou ter um local para se comunicar com os membros do servidor, entre na [comunidade do Discord](https://discord.gg/fuMNcFqMc).
 
 Créditos a [roridev](https://github.com/roridev) pelo Spectrum Launcher.
 
