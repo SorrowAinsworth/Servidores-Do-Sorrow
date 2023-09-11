@@ -47,7 +47,7 @@ I'll be providing a link to download it from Drive. Download the version that su
 
 Notes: For the Linux version, make sure you have the "Fuse" package installed and mark the application as executable. For macOS, you'll need to enable support for third-party applications. If you still use Windows 7 for reasons of hardware limitations, I suggest you use Linux, I recommend Linux Mint, to avoid viruses and malicious programs.
 
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————————————————————
 
 **Instalação das versões**
 
