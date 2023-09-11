@@ -10,7 +10,7 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 
 Elísio is a minecraft server that seeks to be a safe place for all those who just want to relieve the stress of the day, or for those who want a safe and simple place to play without worries, without prejudice or discrimination.
 
-Elysium is a left-wing, anarchist and communist server, we encourage cooperation between players, as well as the sharing of resources, any attempt at monetization within the server will be reprimanded, despite allowing players to have their items respected, use common sense.
+Elísio is a left-wing, anarchist and communist server, we encourage cooperation between players, as well as the sharing of resources, any attempt at monetization within the server will be reprimanded, despite allowing players to have their items respected, use common sense.
 
 The server supports the Vanilla version (without mods) of the game, the use of the modpack is recommended but not mandatory.
 
