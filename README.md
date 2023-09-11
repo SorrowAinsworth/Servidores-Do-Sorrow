@@ -2,7 +2,7 @@
 
 Elísio é um servidor de minecraft que busca ser um local seguro para todos aqueles que querem apenas aliviar o estresse do dia, ou para aqueles que querem um local seguro e simples para jogar sem preocupações, sem preconceitos ou discriminação.
 
-O Elísio é um servidor de esquerda e anarquista, incentivamos a cooperação entre os jogadores, assim como o compartilhamento de recursos, qualquer tentativa de monetização dentro do servidor será repreendida, apesar de permitir que os jogadores tenham seus itens respeitados, use o bom senso.
+O Elísio é um servidor de esquerda, anarquista e comunista, incentivamos a cooperação entre os jogadores, assim como o compartilhamento de recursos, qualquer tentativa de monetização dentro do servidor será repreendida, apesar de permitir que os jogadores tenham seus itens respeitados, use o bom senso.
 
 O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é recomendado, mas não obrigatório.
 
