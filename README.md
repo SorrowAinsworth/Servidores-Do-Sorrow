@@ -18,14 +18,14 @@ The server supports the Vanilla version (without mods) of the game, the use of t
 - **Versão/Version:** 1.20.1
 - **Modpack:** 1.0
 
-# Links rápidos
+# Links rápidos - Quick links
 
 - [Spectrum Launcher](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing) 
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
 - [Elísio modpack](https://drive.google.com/file/d/1ZAvE-G_VJBRv0r3swY6ZP3YQvW-tJiZV/view?usp=drive_link)
 
-# Instalação
+# Instalação - Installation
 
 **O Launcher**
 
@@ -36,6 +36,18 @@ Estarei disponibilizando o link para download do mesmo, através do Drive. Baixe
 [Spectrum Launcher - Drive](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing)
 
 Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e marcar a aplicação como executável. Para o macos, você terá que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomendo o Linux Mint, para evitar vírus e programas maliciosos.
+
+**The Launcher**
+
+A launcher allows you to manage your game more easily, adding mods, textures and customized modpacks. Here we'll be using Spectrum Launcher, a fork of Prism Launcher that allows you to install and play without a Microsoft account.
+
+I'll be providing a link to download it from Drive. Download the version that suits your system, use the Windows version for Windows 10 or 11, the Linux version is available in .AppImage, working on any popular distro, the macOS version has only been tested on High Sierra, use the Windows Legacy version if you use windows 7.
+
+[Spectrum Launcher - Drive](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing)
+
+Notes: For the Linux version, make sure you have the "Fuse" package installed and mark the application as executable. For macOS, you'll need to enable support for third-party applications. If you still use Windows 7 for reasons of hardware limitations, I suggest you use Linux, I recommend Linux Mint, to avoid viruses and malicious programs.
+
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 **Instalação das versões**
 
