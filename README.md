@@ -12,7 +12,8 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 
 # Links rápidos
 
-- [Spectrum Launcher](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing) 
+- [Prism Launcher - Desbloqueado](https://drive.google.com/drive/folders/1quSYqJlI1TsDI9NVpe_Xy0--ZYe4DRXs?usp=sharing)
+- [Prism Launcher - Original](https://prismlauncher.org/download/) 
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
 - [Elísio modpack](https://drive.google.com/file/d/1ZAvE-G_VJBRv0r3swY6ZP3YQvW-tJiZV/view?usp=drive_link)
@@ -21,19 +22,21 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 
 **O Launcher**
 
-Um launcher serve para você gerenciar com mais facilidade o seu jogo, adicionando mods, texturas e modpacks personalizados, usaremos aqui o Spectrum Launcher, um fork do Prism Launcher que permite instalar e jogar sem uma conta Microsoft.
+Um launcher serve para você gerenciar com mais facilidade o seu jogo, adicionando mods, texturas e modpacks personalizados, usaremos aqui o Prism Launcher - Desbloqueado, um fork do Prism Launcher que permite instalar e jogar sem uma conta Microsoft.
 
-Estarei disponibilizando o link para download do mesmo, através do Drive. Baixe a versão condizente com o seu sistema, use a versão Windows para Windows 10 ou 11, a versão para Linux é disponibilizada em .AppImage, funcionando em qualquer distro popular, a versão de macos foi testada apenas no High Sierra, utilize a versão Windows Legacy se você utiliza windows 7.
+Estarei disponibilizando o link para download do mesmo, através do Drive. Baixe a versão condizente com o seu sistema, use a versão Windows para Windows 10 ou 11, a versão para Linux funciona em qualquer distro popular, a versão de macos foi testada apenas no High Sierra, utilize a versão Windows Legacy se você utiliza windows 7.
 
-[Spectrum Launcher - Drive](https://drive.google.com/drive/folders/1xPDCvIv6ABY8PVctuR3BafQ1a8Urbk5p?usp=sharing)
+[Prism Launcher - Drive](https://drive.google.com/drive/folders/1quSYqJlI1TsDI9NVpe_Xy0--ZYe4DRXs?usp=sharing)
 
-Notas: Para a versão Linux, certifique-se de ter o pacote "Fuse" instalado e marcar a aplicação como executável. Para o macos, você terá que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomendo o Linux Mint, para evitar vírus e programas maliciosos.
+Notas: Para a versão Linux, certifique-se de marcar a aplicação como executável. Para o macos, você terá que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomendo o Linux Mint, para evitar vírus e programas maliciosos.
+
+caso você tenha uma cópia do Minecraft original, usa a [versão original](https://prismlauncher.org/download/) do Prism Launcher.
 
 **Instalação das versões**
 
 - Windows 10,11,7: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe), Extraia o arquivo .zip e abra o launcher pelo executável.
 
-- Linux: Instale a versão Java recomendada para o Minecraft 1.20.1 usando o gerenciador de pacotes de sua distro, no Ubuntu utilize "sudo apt install openjdk-17-jdk", faça o download do arquivo .AppImage, marque como executável (geralmente botão direito, propriedades), e execute.
+- Linux: Instale a versão Java recomendada para o Minecraft 1.20.1 usando o gerenciador de pacotes de sua distro, no Ubuntu utilize "sudo apt install openjdk-17-jdk", faça o download do arquivo, extraia e abra pelo executável.
 
 - Macos: Instale a versão Java recomendada para o Minecraft 1.20.1, o [Java 17](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg), extraia a pasta e siga as instruções.
 
@@ -85,7 +88,7 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - IP: 164.152.254.26
 - Versão: 1.20.1 
 
-Créditos a [roridev](https://github.com/roridev) pelo Spectrum Launcher.
+Créditos a [Diegiwg](https://github.com/Diegiwg/PrismLauncher-Cracked) pelo Prism Launcher.
 
 
 
