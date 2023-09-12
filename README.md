@@ -30,7 +30,7 @@ Estarei disponibilizando o link para download do mesmo, através do Drive. Baixe
 
 Notas: Para a versão Linux, certifique-se de marcar a aplicação como executável. Para o macos, você terá que habilitar suporte para aplicações de terceiros. Se você ainda utiliza o Windows 7 por razões de limitação de hardware, sugiro que utilize Linux, recomendo o Linux Mint, para evitar vírus e programas maliciosos.
 
-caso você tenha uma cópia do Minecraft original, usa a [versão original](https://prismlauncher.org/download/) do Prism Launcher.
+Caso você tenha uma cópia do Minecraft original, usa a [versão original](https://prismlauncher.org/download/) do Prism Launcher.
 
 **Instalação das versões**
 
