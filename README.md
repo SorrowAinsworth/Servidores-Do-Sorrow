@@ -16,7 +16,7 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 - [Prism Launcher - Original](https://prismlauncher.org/download/) 
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
-- [Elísio modpack](https://drive.google.com/file/d/1VejfFQlpGyA8UREChyNlILh3Qc-bXQTl/view?usp=drive_link)
+- [Elísio modpack](https://drive.google.com/file/d/1BbkSU72Wct2guanxiIWosRxAWzUJbzpj/view?usp=drive_link)
 - [Discord](https://discord.gg/NEfVuuAv) 
 
 # Instalação
@@ -53,7 +53,7 @@ Caso você tenha problemas com o Java, como o jogo não iniciar, na seção Java
 
 **Instalação do modpack Elísio**
 
-Para instalar o modpack recomendado para o servidor, baixe o [Elísio modpack](https://drive.google.com/file/d/1VejfFQlpGyA8UREChyNlILh3Qc-bXQTl/view?usp=drive_link) do Drive, não é necessário extrair, pois o Launcher utiliza o arquivo .zip inteiro.
+Para instalar o modpack recomendado para o servidor, baixe o [Elísio modpack](https://drive.google.com/file/d/1BbkSU72Wct2guanxiIWosRxAWzUJbzpj/view?usp=drive_link) do Drive, não é necessário extrair, pois o Launcher utiliza o arquivo .zip inteiro.
 
 Após baixar o arquivo .zip, na tela principal do launcher, no canto superior esquerdo, clique em "adicionar instância", clique em "Import from zip, clique em "Navegar", selecione o arquivo .zip e clique em ok.
 
