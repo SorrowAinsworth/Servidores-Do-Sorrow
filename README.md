@@ -17,6 +17,7 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
 - [Elísio modpack](https://drive.google.com/file/d/1VejfFQlpGyA8UREChyNlILh3Qc-bXQTl/view?usp=drive_link)
+- [Discord](https://discord.gg/NEfVuuAv) 
 
 # Instalação
 
