@@ -89,6 +89,8 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - IP: 164.152.254.26
 - Versão: 1.20.1 
 
+Para mais informações e contato, entre na [comunidade do Discord](https://discord.gg/NEfVuuAv).
+
 Créditos a [Diegiwg](https://github.com/Diegiwg/PrismLauncher-Cracked) pelo Prism Launcher.
 
 
