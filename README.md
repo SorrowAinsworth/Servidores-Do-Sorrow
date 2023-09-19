@@ -17,7 +17,7 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 - [Java 17 - Windows](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) 
 - [Java 17 - macos](https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg) 
 - [Elísio modpack](https://drive.google.com/file/d/1BbkSU72Wct2guanxiIWosRxAWzUJbzpj/view?usp=drive_link)
-- [Discord](https://discord.gg/NEfVuuAv) 
+- [Discord](https://discord.gg/pMaAZ5qgTT) 
 
 # Instalação
 
@@ -89,7 +89,7 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - IP: 164.152.254.26
 - Versão: 1.20.1 
 
-Para mais informações e contato, entre na [comunidade do Discord](https://discord.gg/NEfVuuAv).
+Para mais informações e contato, entre na [comunidade do Discord](https://discord.gg/pMaAZ5qgTT).
 
 Créditos a [Diegiwg](https://github.com/Diegiwg/PrismLauncher-Cracked) pelo Prism Launcher.
 
