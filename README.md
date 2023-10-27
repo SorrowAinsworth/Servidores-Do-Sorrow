@@ -8,7 +8,7 @@ O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é rec
 
 - **IP:** 164.152.254.26 
 - **Versão:** 1.20.1
-- **Modpack:** 1.1
+- **Modpack:** 2.0
 - **Status:** Online
 # Links rápidos
 
