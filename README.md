@@ -6,9 +6,9 @@ O Elísio é um servidor de esquerda, anarquista e comunista, incentivamos a coo
 
 O servidor suporta a versão Vanilla (sem mods) do jogo, o uso do modpack é recomendado, mas não obrigatório.
 
-- **IP:** 164.152.254.26 
+- **IP:** 204.216.142.211
 - **Versão:** 1.20.1
-- **Modpack:** 2.0
+- **Modpack:** 2.1
 - **Status:** Online
 # Links rápidos
 
@@ -86,7 +86,7 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 - Processador: Ampere Altra A1, 4 núcleos 
 - RAM: 16GB 
 - Espaço: 200GB NVME
-- IP: 164.152.254.26
+- IP: 204.216.142.211
 - Versão: 1.20.1 
 
 Para mais informações e contato, entre na [comunidade do Discord](https://discord.gg/pMaAZ5qgTT).
