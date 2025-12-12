@@ -43,10 +43,6 @@ Após baixar o arquivo .zip, na tela principal do launcher, no canto superior es
 
 Para iniciar o jogo, abra a instância criada com dois cliques e aguarde a abertura do jogo. O modpack ja vem com o servidor adicionado na aba "Multijogador" e com configurações gráficas pré-configuradas.
 
-**Informações do modpack**
-
-O modpack contém uma variedade de mods para todos os gostos, crie maquinas 
-
 **Skins personalizadas**
 
 O servidor utiliza o mod "Fabric Tailor", permitindo que os jogadores utilizem skins personalizadas ou troquem de skin sem precisar sair do jogo, também permite contas offline utilizar skins.
@@ -59,17 +55,14 @@ Para conseguir uma URL, basta baixar a skin desejada no formato padrão png de a
 
 # Sobre o servidor
 
-- Hospedagem: Oracle Cloud free tier, Vinhedo SP 
-- Instância: Ubuntu 22.04 minimal 
-- Processador: Ampere Altra A1, 4 núcleos 
-- RAM: 16GB 
-- Espaço: 200GB NVME
-- IP: 204.216.142.211
+- Hospedagem: Servidor local (Joinville,SC)
+- Instância: Windows 10 LTSC
+- Processador: i5 2500, 4/4
+- RAM: 8GB
+- Espaço: 250GB SSD
+- IP: have-maritime.gl.joinmc.link
 - Versão: 1.20.1 
 
-Para mais informações e contato, entre na [comunidade do Discord](https://discord.gg/pMaAZ5qgTT).
-
-Créditos a [Diegiwg](https://github.com/Diegiwg/PrismLauncher-Cracked) pelo Prism Launcher.
 
 
 
