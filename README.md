@@ -17,7 +17,7 @@ Lista de servidores atualmente mantidos por mim:
 - **Porta**: 57675
 - **Versão**: 1.4.4.9
 
-#Informações extras
+# Informações extras
 
 Para acessar o servidor Elísio vanilla basta abrir o minecraft original na versão descrita acima e adicionar o ip a sua lista de servidores.
 
