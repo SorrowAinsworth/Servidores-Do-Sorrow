@@ -6,7 +6,7 @@ Lista de servidores atualmente mantidos por mim:
 - **IP**: sorrow.jogar.in
 - **Versão**: 1.21.11
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 
 - **Minecraft modded (Elísio mod)**
 - **IP**: either-elements.gl.joinmc.link
