@@ -19,11 +19,11 @@ Lista de servidores atualmente mantidos por mim:
 
 # Informações extras
 
-Para acessar o servidor Elísio vanilla basta abrir o minecraft original na versão descrita acima e adicionar o ip a sua lista de servidores.
+- Para acessar o servidor Elísio vanilla basta abrir o minecraft original na versão descrita acima e adicionar o ip a sua lista de servidores.
 
-Para acessar o servidor Elísio modded clique no link **Mais informações** e siga as instruções.
+- Para acessar o servidor Elísio modded clique no link **Mais informações** e siga as instruções.
 
-Para acessar o servidor de Terraria abra o jogo, vá na aba multijogador, adicione o ip e em seguida a porta.
+- Para acessar o servidor de Terraria abra o jogo, vá na aba multijogador, adicione o ip e em seguida a porta.
 
 # Sobre o servidor
 
