@@ -32,8 +32,6 @@ Lista de servidores atualmente mantidos por mim:
 - Processador: i5 2500, 4/4
 - RAM: 8GB
 - Espaço: 250GB SSD SATA
-- IP: either-elements.gl.joinmc.link
-- Versão: 1.20.1
 
 
 
