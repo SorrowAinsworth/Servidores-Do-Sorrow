@@ -1,3 +1,12 @@
+# Servidores
+
+Lista de servidores atualmente mantidos por mim:
+
+- **Minecraft vanilla (Elísio vanilla)
+- **IP**: sorrow.jogar.in
+- **Versão**: 1.21.11
+
+
 # Sobre o Elísio
 
 Elísio é um servidor de minecraft modded que busca ser um local seguro para todos aqueles que querem apenas aliviar o estresse do dia, ou para aqueles que querem um local seguro e simples para jogar sem preocupações, sem preconceitos ou discriminação.
