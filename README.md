@@ -5,7 +5,7 @@ Lista de servidores atualmente mantidos por mim:
 **Minecraft modded (Elísio mod)**
 - **IP**: either-elements.gl.joinmc.link
 - **Versão**: 1.20.1
-- **Versão do modpack**: 1.0
+- **Versão do modpack**: 1.2
 - **Mais informações**: [Elísio Modded - Github](https://github.com/SorrowAinsworth/Elisio-Modded)
 
 **Terraria vanilla (Terraria dos camaradas)**
