@@ -2,10 +2,6 @@
 
 Lista de servidores atualmente mantidos por mim:
 
-**Minecraft vanilla (Elísio vanilla)**
-- **IP**: sorrow.jogar.in
-- **Versão**: 1.21.11
-
 **Minecraft modded (Elísio mod)**
 - **IP**: either-elements.gl.joinmc.link
 - **Versão**: 1.20.1
@@ -16,6 +12,7 @@ Lista de servidores atualmente mantidos por mim:
 - **IP**: notes-fact.gl.at.ply.gg
 - **Porta**: 57675
 - **Versão**: 1.4.4.9
+- **OFFLINE**
 
 # Informações extras
 
